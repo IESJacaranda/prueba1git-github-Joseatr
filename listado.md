@@ -12,6 +12,6 @@ Prado Izquierdo, Francisco José
 Quevedo García, Salud
 Rabanal Márquez, Fernando Manuel
 Romero Cano, Abraham
-Tirado Román, José Antonio
+~~Tirado Román, José Antonio~~
 Vidal Román, Samuel
 Villegas Cobos, José Vicente
